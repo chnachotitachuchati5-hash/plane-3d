@@ -1,0 +1,16 @@
+Noy Passenger Jet — 3D aircraft demo
+====================================
+
+Built as a self-contained static site. No accounts, no deployment.
+
+Libraries (vendored in ./vendor and also loadable from a CDN):
+- Three.js r170  — MIT License  https://threejs.org/
+- GSAP 3.12.7    — Standard "no charge" license (GreenSock)
+- Kanit font     — SIL Open Font License, via Google Fonts
+
+The airplane is original procedural geometry built from Three.js
+primitives (no third-party 3D models, no downloaded meshes).
+The "HS-NOY" livery is fictional and is not a real airline or
+aircraft type. Proportions are loosely inspired by modern
+twin-engine passenger jets in general, not a copy of any
+specific airframe.
